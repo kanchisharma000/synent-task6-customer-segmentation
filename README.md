@@ -1,4 +1,5 @@
 # Customer Segmentation using K-Means 📊
+video link - https://drive.google.com/file/d/1IH6ZBflTH7ZoTwIaWynaC0QSQ0Yufrt0/view?usp=drive_link
 
 ## 📌 Project Overview
 This project segments mall customers based on their annual income and spending score using K-Means clustering.
